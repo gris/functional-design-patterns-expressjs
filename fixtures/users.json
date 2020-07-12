@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "username": "nybblr",
+    "name": "Jonathan",
+    "password": "$2b$10$YF0ztu.zXpi6YB3jGP2IweapzfG5mcXUH7B..f/OxEPe/5qp04XGa"
+  },
+  {
+    "id": "2",
+    "username": "flurry",
+    "name": "Shawnee",
+    "password": "$2b$10$0FTu7wZ0i83GINmzUd7koOoC11/.4TjHhx/RAzzkc272VNzwzO7be"
+  },
+  {
+    "id": "3",
+    "username": "bucky",
+    "name": "Alex",
+    "password": "$2b$10$q8Z4IvYD6pwihU/YEirk6ONgCJOVCynZK1.wzQN/YZNveOiWWWNY6"
+  }
+]
