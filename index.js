@@ -33,7 +33,6 @@ let notFoundHandler = (err, req, res, next) => {
 
 let setContentType = (res, path) => {
   const relativePath = path.split("/pony-express")[1];
-  console.log(relativePath);
   const type = getEmailMimeType(relativePath);
   if (type !== "") {
     res.setHeader("Content-Type", type);
